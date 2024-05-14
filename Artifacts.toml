@@ -1,143 +1,143 @@
 [[NASM]]
 arch = "aarch64"
-git-tree-sha1 = "86562b13dd6b28df88afad52a2c61e023582725b"
+git-tree-sha1 = "d5ea077fa58f47e34864af3f19b3638d728b1ad4"
 os = "macos"
 
     [[NASM.download]]
-    sha256 = "c607df5cbf58dc0a947540624a5192025e3bbc89f2c67c9933309cffce721f50"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "4c19ecce1bde164cbd0d7847f39e6fc60962715aacc89ddca746e5050a16f70a"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.aarch64-apple-darwin.tar.gz"
 [[NASM]]
 arch = "aarch64"
-git-tree-sha1 = "6cad9e10c0ca9097661ba64bec2d10232e0511a0"
+git-tree-sha1 = "fca850d3f118df1db9660bca84095e12b9b7d5f1"
 libc = "glibc"
 os = "linux"
 
     [[NASM.download]]
-    sha256 = "64eec442b25b79eaf21eb15c5b14674bcf25ececf8b46cb64257fca7fcac6425"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "0e95e85fa99e2ab69cc81c3a64a0d47410551d9c5c32d4cc37ee6f9b5a1b302a"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.aarch64-linux-gnu.tar.gz"
 [[NASM]]
 arch = "aarch64"
-git-tree-sha1 = "0ec28b1bebe7dbcada404294b023163aecc7af69"
+git-tree-sha1 = "c885c12ce349c993f12aa3c97bc722198effc153"
 libc = "musl"
 os = "linux"
 
     [[NASM.download]]
-    sha256 = "46c528734b84910d3b20c188c3b9659b1eb6a3347b9c7116cf9dbe6a98ec79dd"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.aarch64-linux-musl.tar.gz"
+    sha256 = "c3fa8b2413ca0093d2accf2ae02387105de5bf6b7d97329c8e721517736c6a04"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.aarch64-linux-musl.tar.gz"
 [[NASM]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f1c8eb3af113c5f20cb6771b063026407bb17c74"
+git-tree-sha1 = "99287c081c617a48c40bef1d08276cb27126fd3a"
 libc = "glibc"
 os = "linux"
 
     [[NASM.download]]
-    sha256 = "5f5a341db60cee5f124080079bc034bbc2ee8961762109e58858593119b2d2e6"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "0b1b40a0be9e794692b660140b2a11adceb3a18ef393ba572bb3291e1bcb148e"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.armv6l-linux-gnueabihf.tar.gz"
 [[NASM]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "567cfbe7da73973de3c9589055ac8bc656c57754"
+git-tree-sha1 = "04dbb310d97588f75c3b2ce500240d9261ca2477"
 libc = "musl"
 os = "linux"
 
     [[NASM.download]]
-    sha256 = "5eaa9dd7bc83143f1afe611941003f62dbb124200b9a4757ea7d9adc8fa79b1d"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "ea6728d3c136f777c498e83e21b51802c01f56f02c312368eaf48cd5a5fe66a6"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.armv6l-linux-musleabihf.tar.gz"
 [[NASM]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "12270f5966487531b064519d42e1e3a896c5ec98"
+git-tree-sha1 = "639d7c391df06be2355c6f5f378283f7982a0a12"
 libc = "glibc"
 os = "linux"
 
     [[NASM.download]]
-    sha256 = "d960f858608e02d60fcc432b8c554b717430e7b1a59c6f2141a405a56e44aecc"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "d2f2c2ebc2415303f9f22a27a846b0f4cf69198db59ce886dd995410080f70a8"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.armv7l-linux-gnueabihf.tar.gz"
 [[NASM]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "81d655aae564db2d8934f7a30ce508980f1a4aa6"
+git-tree-sha1 = "d6210887dd7148c4aaead21f4b0fc6b42f6a09ab"
 libc = "musl"
 os = "linux"
 
     [[NASM.download]]
-    sha256 = "82220e232db4024a503608dbaee650d5ce40a1e1262671cd476280a8bfc4b7bd"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "03d4d20573c7f226ba677c9d73b9e59cb2f9f333e6b92a9065766a2cd10be18f"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.armv7l-linux-musleabihf.tar.gz"
 [[NASM]]
 arch = "i686"
-git-tree-sha1 = "31f67d3f0ad7ee71a9b92c2be8b1a747a27dad47"
+git-tree-sha1 = "842ff5f77ad99d10aa755d1360fad8d85f884386"
 libc = "glibc"
 os = "linux"
 
     [[NASM.download]]
-    sha256 = "06c05fea20f788e74f790bd1054dfc4459d2f8af05fcee963768b6502b66575c"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.i686-linux-gnu.tar.gz"
+    sha256 = "58cebe36de6c80bfa6f5b5fd3155b3b402c8027253fc07ba936fa4198851cab9"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.i686-linux-gnu.tar.gz"
 [[NASM]]
 arch = "i686"
-git-tree-sha1 = "0c287a3d195e783fd36d224f35ff334dfc2692c3"
+git-tree-sha1 = "313ec8c5bbab523264ca4a3b89181d5383dea872"
 libc = "musl"
 os = "linux"
 
     [[NASM.download]]
-    sha256 = "35616b7fee512ceda0d39bf4f0564d617f37bd4ddab9970a60ee2d3d953267d7"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.i686-linux-musl.tar.gz"
+    sha256 = "66e1389dfd4396f6ce4326cc4114605946ad6132642e1c2c5c3f7a0ee4b86411"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.i686-linux-musl.tar.gz"
 [[NASM]]
 arch = "i686"
-git-tree-sha1 = "71f9c7a73bdef387d8c185902741ff6ffb80211b"
+git-tree-sha1 = "d15381b7ff3a338a23010ab73402af540407cb8e"
 os = "windows"
 
     [[NASM.download]]
-    sha256 = "39604e5349e989d6d2e4b741854fbf95ae769b435f2ca6f26a7020e62b0e3db0"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.i686-w64-mingw32.tar.gz"
+    sha256 = "f2c58c9845bb96901ef5ad0585092dd30bf6278305f4f42ded928ec53057bcfa"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.i686-w64-mingw32.tar.gz"
 [[NASM]]
 arch = "powerpc64le"
-git-tree-sha1 = "12b35b5d5cbfbd4fb5d67c9507811920132a9219"
+git-tree-sha1 = "be321be63aa4c0a33ebf8031b597ccaaa39f2ed3"
 libc = "glibc"
 os = "linux"
 
     [[NASM.download]]
-    sha256 = "f9bda893f8b0c5b32bd772b583875baa31b31760d1b073dae2ff7ea67bcd799a"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "e66fcc2cff72377dc64539e430d0862d065199a3ab7f10efd6a846f0b58cfec2"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.powerpc64le-linux-gnu.tar.gz"
 [[NASM]]
 arch = "x86_64"
-git-tree-sha1 = "5965aad501ab16289f0e1411d3aef6c4011eaa28"
+git-tree-sha1 = "ac632215619fd4aee4cc9c763288ae1de9ff6bd8"
 os = "macos"
 
     [[NASM.download]]
-    sha256 = "f8ab3ea5cf6a11fcdd9f9c6d3a41f9cf74874ce04928e6010d7c6f7e82c9a823"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "c6ce75e93847970dedc38c58d72ee18643e985c681319aee8e63c48383a29ef2"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.x86_64-apple-darwin.tar.gz"
 [[NASM]]
 arch = "x86_64"
-git-tree-sha1 = "74eba01770779387e0e4dd24b32e0bea7c1223c6"
+git-tree-sha1 = "7b6c24c284b276db9b31a1593037a8597a40090c"
 libc = "glibc"
 os = "linux"
 
     [[NASM.download]]
-    sha256 = "d63563dd07f360612be9626a4b12a3738e89298d8ebb5375d3f435158d46fea3"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "3274ac04393dab158591518946074eab45407f3ea64b3e097acfb95289f7f854"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.x86_64-linux-gnu.tar.gz"
 [[NASM]]
 arch = "x86_64"
-git-tree-sha1 = "3e5ad4ec552b55551c14049f001d9e1420875467"
+git-tree-sha1 = "5e29f6bb6efda0e8b34e98ec7e68eab46dec449c"
 libc = "musl"
 os = "linux"
 
     [[NASM.download]]
-    sha256 = "bbb953cbf7275f8c6b5cf072596187693f63a37439c5e75703d4e024e760cdf0"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.x86_64-linux-musl.tar.gz"
+    sha256 = "17d089fe22299dca2cf7ac5fe3a1bb41b6fc11df8ada78c34318ecdefc96733f"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.x86_64-linux-musl.tar.gz"
 [[NASM]]
 arch = "x86_64"
-git-tree-sha1 = "54d1e3382e4d40fad6916c37fb3a1eed50126895"
+git-tree-sha1 = "17a77d68b930617ef833cc1eeaf9cabce5085866"
 os = "freebsd"
 
     [[NASM.download]]
-    sha256 = "22f1ccef4731721377c0f59b14b1157bd912094249dcf8644c3a36af3f083db9"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "68f5c8156441e7e4eed64bf45bd931b176328b2cb03b0b5f5b38c59e2640a94b"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.x86_64-unknown-freebsd.tar.gz"
 [[NASM]]
 arch = "x86_64"
-git-tree-sha1 = "1e59a369196ff8178cdb3dd4339039e32c35109c"
+git-tree-sha1 = "2677f10e35963d4f5cd4c14cd53b857be1d29faf"
 os = "windows"
 
     [[NASM.download]]
-    sha256 = "56bd69bb08839f3413df19ecd7e87154fc26389227a1cefa3537a89f4f30e20b"
-    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.1+0/NASM.v2.16.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "4c93810eaa481abce158abd664fd020b2dc824f7c1b3990051cea86d20a1cab9"
+    url = "https://github.com/JuliaBinaryWrappers/NASM_jll.jl/releases/download/NASM-v2.16.3+0/NASM.v2.16.3.x86_64-w64-mingw32.tar.gz"
