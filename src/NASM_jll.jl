@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("NASM")
-JLLWrappers.@generate_main_file("NASM", UUID("08ca2550-6d73-57c0-8625-9b24120f3eae"))
+JLLWrappers.@generate_main_file("NASM", Base.UUID("08ca2550-6d73-57c0-8625-9b24120f3eae"))
 end  # module NASM_jll
